@@ -11,7 +11,7 @@ The AI expects a directory containing the following:
 - Relation CSV File:
 	A file containing star ids and the corresponding movie id
 
-##### Provided in the repository a small sample of file to test
+##### Provided in the repository a small sample of files to test
 ## Usage
 Simple run the following command:
 
